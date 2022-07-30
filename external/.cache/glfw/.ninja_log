@@ -1,0 +1,21 @@
+# ninja log v5
+0	6	1659195007386062819	glfw-download-prefix/src/glfw-download-stamp/glfw-download-mkdir	fcf73524e21ac187
+0	6	1659195007386062819	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-mkdir	fcf73524e21ac187
+6	3613	1659195010994058155	glfw-download-prefix/src/glfw-download-stamp/glfw-download-download	c7f7b5446fd2710c
+6	3613	1659195010994058155	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-download	c7f7b5446fd2710c
+3614	3626	0	glfw-download-prefix/src/glfw-download-stamp/glfw-download-update	d1c7000f11a358e8
+3614	3626	0	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-update	d1c7000f11a358e8
+3626	3630	1659195011010058134	glfw-download-prefix/src/glfw-download-stamp/glfw-download-patch	d709b3a4d4fd2422
+3626	3630	1659195011010058134	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-patch	d709b3a4d4fd2422
+3631	3635	1659195011014058129	glfw-download-prefix/src/glfw-download-stamp/glfw-download-configure	e4b205f3a0474867
+3631	3635	1659195011014058129	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-configure	e4b205f3a0474867
+3636	3641	1659195011018058124	glfw-download-prefix/src/glfw-download-stamp/glfw-download-build	1b7391a40535028f
+3636	3641	1659195011018058124	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-build	1b7391a40535028f
+3641	3647	1659195011026058114	glfw-download-prefix/src/glfw-download-stamp/glfw-download-install	1019fafcf11faddd
+3641	3647	1659195011026058114	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-install	1019fafcf11faddd
+3647	3651	1659195011030058109	glfw-download-prefix/src/glfw-download-stamp/glfw-download-test	67ad3146ae011662
+3647	3651	1659195011030058109	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-test	67ad3146ae011662
+3651	3658	1659195011038058098	CMakeFiles/glfw-download-complete	1157013b30b5f34a
+3651	3658	1659195011038058098	glfw-download-prefix/src/glfw-download-stamp/glfw-download-done	1157013b30b5f34a
+3651	3658	1659195011038058098	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/CMakeFiles/glfw-download-complete	1157013b30b5f34a
+3651	3658	1659195011038058098	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-done	1157013b30b5f34a

@@ -1,0 +1,21 @@
+# ninja log v5
+0	6	1659195039510021030	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-mkdir	ea5b71783d314df3
+0	6	1659195039510021030	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-mkdir	ea5b71783d314df3
+7	1605	1659195041110018934	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-download	881cb8bd2ca5bdcf
+7	1605	1659195041110018934	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-download	881cb8bd2ca5bdcf
+1605	1616	0	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-update	2e598f818f9ddad1
+1605	1616	0	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-update	2e598f818f9ddad1
+1616	1621	1659195041126018913	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-patch	5fa56c0e2ed3ddc6
+1616	1621	1659195041126018913	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-patch	5fa56c0e2ed3ddc6
+1621	1626	1659195041130018908	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-configure	264ba589c3798eff
+1621	1626	1659195041130018908	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-configure	264ba589c3798eff
+1626	1630	1659195041134018902	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-build	3debbafe70a38720
+1626	1630	1659195041134018902	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-build	3debbafe70a38720
+1630	1635	1659195041138018897	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-install	586cf2ac66c47071
+1630	1635	1659195041138018897	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-install	586cf2ac66c47071
+1635	1640	1659195041146018887	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-test	e09d282d2b8388ca
+1635	1640	1659195041146018887	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-test	e09d282d2b8388ca
+1640	1647	1659195041150018881	CMakeFiles/imguizmo-download-complete	df48a36b134f7c0a
+1640	1647	1659195041150018881	imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-done	df48a36b134f7c0a
+1640	1647	1659195041150018881	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/CMakeFiles/imguizmo-download-complete	df48a36b134f7c0a
+1640	1647	1659195041150018881	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-done	df48a36b134f7c0a

@@ -1,0 +1,14 @@
+# Target labels
+ imguizmo-download
+# Source files and their labels
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/CMakeFiles/imguizmo-download
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/CMakeFiles/imguizmo-download.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/CMakeFiles/imguizmo-download-complete.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-build.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-configure.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-download.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-install.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-mkdir.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-patch.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-test.rule
+/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/imguizmo/imguizmo-download-prefix/src/imguizmo-download-stamp/imguizmo-download-update.rule

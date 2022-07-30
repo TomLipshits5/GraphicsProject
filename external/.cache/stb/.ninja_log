@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1659195041238018766	stb-download-prefix/src/stb-download-stamp/stb-download-mkdir	6d79b63d04204236
+0	7	1659195041238018766	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-mkdir	6d79b63d04204236
+7	851	1659195042082017660	stb-download-prefix/src/stb-download-stamp/stb-download-download	16072843d189f764
+7	851	1659195042082017660	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-download	16072843d189f764
+851	864	0	stb-download-prefix/src/stb-download-stamp/stb-download-update	321273727cc13701
+851	864	0	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-update	321273727cc13701
+864	868	1659195042098017639	stb-download-prefix/src/stb-download-stamp/stb-download-patch	829a10819d0853f0
+864	868	1659195042098017639	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-patch	829a10819d0853f0
+868	874	1659195042102017633	stb-download-prefix/src/stb-download-stamp/stb-download-configure	3904ee83f0ab36a9
+868	874	1659195042102017633	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-configure	3904ee83f0ab36a9
+874	879	1659195042110017623	stb-download-prefix/src/stb-download-stamp/stb-download-build	20512a7130e98187
+874	879	1659195042110017623	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-build	20512a7130e98187
+879	883	1659195042114017618	stb-download-prefix/src/stb-download-stamp/stb-download-install	6828b7b9f8100053
+879	883	1659195042114017618	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-install	6828b7b9f8100053
+883	888	1659195042118017612	stb-download-prefix/src/stb-download-stamp/stb-download-test	44ced7c221116d49
+883	888	1659195042118017612	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-test	44ced7c221116d49
+888	896	1659195042126017602	CMakeFiles/stb-download-complete	ae57c4b4a618adff
+888	896	1659195042126017602	stb-download-prefix/src/stb-download-stamp/stb-download-done	ae57c4b4a618adff
+888	896	1659195042126017602	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/CMakeFiles/stb-download-complete	ae57c4b4a618adff
+888	896	1659195042126017602	/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-done	ae57c4b4a618adff

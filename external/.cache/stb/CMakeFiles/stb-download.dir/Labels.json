@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/CMakeFiles/stb-download"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/CMakeFiles/stb-download.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/CMakeFiles/stb-download-complete.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-build.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-configure.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-download.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-install.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-patch.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-test.rule"
+		},
+		{
+			"file" : "/home/tomcooll/Desktop/Personal/Computer Science/Semester_D/ProjectTomAndSteven/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/stb-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-download"
+		],
+		"name" : "stb-download"
+	}
+}

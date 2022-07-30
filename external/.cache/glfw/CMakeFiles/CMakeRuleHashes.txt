@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+002ebff80798206f2f591aa3c1a013be CMakeFiles/glfw-download-complete
+fb05dfa2780b140339e214c8df43a17b glfw-download-prefix/src/glfw-download-stamp/glfw-download-build
+11938f2bda2d76aacb205db841b8e3fc glfw-download-prefix/src/glfw-download-stamp/glfw-download-configure
+945f65250e7344c4d9145c32ef4d72e4 glfw-download-prefix/src/glfw-download-stamp/glfw-download-download
+8ad8b8c4e711b7f97e1334b5846cbcb4 glfw-download-prefix/src/glfw-download-stamp/glfw-download-install
+163beed7e6da38dcc8b198a70d7b0cb5 glfw-download-prefix/src/glfw-download-stamp/glfw-download-mkdir
+f416474ac7b21f15c1e7e2aa3166dd16 glfw-download-prefix/src/glfw-download-stamp/glfw-download-patch
+624c3cecdc4fa70ea3e5be45213fe264 glfw-download-prefix/src/glfw-download-stamp/glfw-download-test

@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+510abe21710b3fb7f7d7263c4f8b0a4a CMakeFiles/stb-download-complete
+d617e97b4b5fbb44a55015cc9dc9b247 stb-download-prefix/src/stb-download-stamp/stb-download-build
+b34f602ff546553c22a164aab5b55c71 stb-download-prefix/src/stb-download-stamp/stb-download-configure
+2493997ca28226dfa020917b8b5fe7d3 stb-download-prefix/src/stb-download-stamp/stb-download-download
+d8883dea56d9ac6b869e7804633aa20f stb-download-prefix/src/stb-download-stamp/stb-download-install
+b9c8f50883ab268ca05691eb8a66d6af stb-download-prefix/src/stb-download-stamp/stb-download-mkdir
+e89534bce9b26b1425d1da60ecbe8f06 stb-download-prefix/src/stb-download-stamp/stb-download-patch
+9232ae8c3cec786b83faa5fa6b3115de stb-download-prefix/src/stb-download-stamp/stb-download-test
