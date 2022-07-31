@@ -9,6 +9,7 @@ in float r;//Radius of blur
 in float sigma;
 in vec2 texResolution;
 
+uniform vec2 transparency;
 uniform vec4 lightColor;
 uniform sampler2D sampler1;
 uniform vec4 lightDirection;
@@ -47,6 +48,6 @@ void main()
             x++;
         }        
     }
-    Color=col;
+    Color = col * vec4(1,1,1, transparency.x);
 }
 
